@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+    
+    <style>
+        
+        body {
+            background:rgb(247, 243, 239);
+        }
+       
+        h1 {
+            font-family: "Calibri", sans-serif;
+            background:rgb(136, 200, 232);
+        }
+         
+         .heading-above-list-one {
+            font-family: "Calibri", sans-serif;
+            background:rgb(136, 200, 232);
+        }
+       
+        p {
+             font-family: "Calibri", sans-serif;
+        }
+        
+        ul {
+            font-family: "Calibri", sans-serif;
+        }
+       
+        #one {
+            background:rgb(136, 200, 232);
+        }
+       
+        #two {
+            background:rgb(135, 203, 230);
+        }
+       
+        #three {
+            background:rgb(134, 206, 228);
+        }
+        
+        #four {
+            background:rgb(133, 209, 226);
+        }
+        
+        #five {
+             background:rgb(132, 212, 224);
+        }
+       
+        #six {
+            background:rgb(131, 215, 222);
+        }
+        
+        #seven {
+            background:rgb(130, 218, 220);
+        }
+        
+        #eight {
+            background:rgb(129, 221, 218);
+        }
+        
+        h6 {
+           font-family: "Calibri", sans-serif; 
+        }
+        
+        .heading-above-list-two {
+            font-family: "Calibri", sans-serif;
+            background:rgb(129, 221, 218);
+        }
+    
+    #a {
+        background:rgb(129, 221, 218); 
+    }
+    
+     #b {
+         background:rgb(123, 224, 211);
+    }
+     
+     #c {
+         background:rgb(117, 227, 204);
+    }
+     
+     #d {
+         background:rgb(111, 230, 197);
+    }
+     
+     #e {
+         background:rgb(105, 233, 190);
+    }
+    
+        
+    </style>
+        
+        <meta charset="utf-8">
+        
+        <title>Project: Travel to Hawaii
+            
+        </title>
+    
+    </head>
+    
+    <body>
+    
+        <h1>Travel to Hawaii</h1>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Sunset_next_to_Waikiki_Beach%2C_Oahu%2C_Hawai%2C_USA1.jpg" width="400" alt="Image of Sunset on Waikiki Beach">
+        <h6>Image of sunset on Waikiki Beach</h6>
+        
+        <h2 class="heading-above-list-one">Basic Info</h2>
+        
+        <p><strong>Hawaii is a very popular vacation destination located in oceania (although it is part of the U.S.A.). Hawaii has a warm, humid climate, typical for tropical regions. This state is known for it's beaches, palm trees and luaus.</strong></p>
+        
+        <h2 class="heading-above-list-one">The Islands</h2>
+        
+        <p><strong>Many people assume that "Hawaii" is the name for all of the Hawaiian islands. However, this is for from the truth. The <em>state</em> of Hawaii is composed of eight islands:</strong></p>
+        
+        <ul>
+            <li id="one">Hawaiʻi</li>
+            <li id="two">Maui</li>
+            <li id="three">O'ahu</li>
+            <li id="four">Kaua'i</li>
+            <li id="five">Moloka'i</li>
+            <li id="six">Lānaʻi</li>
+            <li id="seven">Niʻihau</li>
+            <li id="eight">Kahoʻolawe</li>
+        </ul>
+        
+        <h6>(The islands' nicknames are "The Big Island", "The Valley Isle", "The Gathering Place", "The Garden Isle", "The Friendly Isle", "The Pineapple Isle", "The Forbidden Isle", and "The Target Isle", respectively.) </h6>
+        
+        <p><strong>Each island has beautiful coastlines, great food, unique activities, and much more.</strong></p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Hawaje-NoRedLine.jpg" width="400" alt="Spatial view of the state of Hawaii">
+        <h6>Spatial view of the state of Hawaii.</h6>
+        <h2 class="heading-above-list-two">Cost of Travel</h2>
+        <p><strong>A round trip flight from Ottawa, Ontario to Honolulu, Hawaii will cost you roughly $600 (CAD). Depending on where you want to stay, you could spend anywhere from $80-$600 a night (hotel prices). <br><br>
+            Here are some of the cheapest hotels in Honolulu, Hawaii:</strong></p>
+            
+            <ul>
+                <li id="a">Ala Moana Hotel (★★★☆☆,  $89)</li>
+                <li id="b">Aqua Aloha Surf Waikiki (★★★☆☆, $100)</li>
+                <li id="c">Pearl Hotel Waikiki (★★★☆☆, $103)</li>   
+                <li id="d">Stay Hotel Waikiki (★★★☆☆, $104)</li>
+                <li id="d">Aqua Palms Waikiki(★★★☆☆, $106) </li>
+                    
+                </ul><br>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Blick_auf_Honolulu.jpg" width="400" alt="City of Honolulu">
+                <h6>Image of Honolulu (Capital of Hawaii)</h6>
+        
+    </body>
+
+</html>
